@@ -43,7 +43,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/css-mini-project.git
+   git clone https://github.com/vaibhavpal7549/CSS-MINI-PROJECT.git
    ```
 2. **Navigate to the project directory:**
    ```bash
