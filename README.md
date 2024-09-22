@@ -1,7 +1,3 @@
-Here’s a sample **README** for your "CSS Mini Project" on GitHub:
-
----
-
 # CSS Mini Project
 
 Welcome to the **CSS Mini Project**! This project showcases essential CSS concepts and techniques used to design a responsive and visually appealing webpage. The goal of this mini project is to demonstrate the use of modern CSS features to style HTML elements and create an interactive user interface.
