@@ -82,5 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-You can adjust the details like project specifics, repository link, and screenshots as per your actual project.
-
