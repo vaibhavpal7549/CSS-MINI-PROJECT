@@ -2,6 +2,13 @@
 
 Welcome to the **CSS Mini Project**! This project showcases essential CSS concepts and techniques used to design a responsive and visually appealing webpage. The goal of this mini project is to demonstrate the use of modern CSS features to style HTML elements and create an interactive user interface.
 
+## Live Demo
+
+Check out the live version of the project:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Here-blue)](https://css-mini-project-vp.vercel.app/)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
